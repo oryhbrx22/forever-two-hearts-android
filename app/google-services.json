@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84662657385",
+    "project_id": "solace-e5337",
+    "storage_bucket": "solace-e5337.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84662657385:android:f0322a95a2c987e76eddf8",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0bMEsfKpx4E9foKPIZHrT-inYnHCJVuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
