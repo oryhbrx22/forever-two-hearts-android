@@ -1,0 +1,42 @@
+# Gradle
+.gradle/
+build/
+*.jar
+*.aar
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Local properties
+local.properties
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build outputs
+bin/
+out/
+*.apk
+*.aab
+*.so
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.sar
+*.log
+
+# Test coverage
+coverage/
+*.lcov
